@@ -25,6 +25,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author Dave Syer
  *
  */
+ /*
+ 
+ my changes
+ 
+ */
 @SpringBootApplication
 public class PetClinicApplication {
 
